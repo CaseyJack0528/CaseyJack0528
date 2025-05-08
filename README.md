@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaseyJack0528
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Electrical Engineering
-- 📫 How to reach me caseyflibble@gmail.com
+- 👀 I’m interested in Physics simulations and embedded systems
+- 🌱 I’m an Electrical Engineer
+- 📫 How to reach me caseyjack0528@gmail.com
 
 <!---
 CaseyJack0528/CaseyJack0528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
